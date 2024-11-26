@@ -17,5 +17,7 @@
 ## ¿Qué es?
 Una librería para [inserta descripción breve aquí].
 
-Comienza en la sección [page 1](page1.md).
+Comienza en la sección [NOTEBOOK](page1.md).
+Comienza en la sección [MARKDOWN](notebook.ipynb).
+Comienza en la sección [HTML](index.html).
 
