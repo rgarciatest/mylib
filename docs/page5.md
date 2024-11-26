@@ -2,10 +2,15 @@
 
 ## About me
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+## About me
+
+```python
+import numpy
+print("Hello")
+```
