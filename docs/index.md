@@ -3,8 +3,9 @@
 ¡Bienvenido a la documentación oficial de `mylib`!
 
 ## Contenido
-- [page 1](page1.md)
-- [page 2](page2.md)
+- [Text](page1.md)
+- [Equations](page2.md)
+- [Tables](page3.md)
 
 
 ## ¿Qué es?
